@@ -3,5 +3,6 @@
 Proyecto de banco. 
 5CV50.- Programacion web
 
-Jazmin Francisco Hernandez
+Jazmin Francisco Hernandez.
+
 Jose Eduardo Ruiz Anaya
